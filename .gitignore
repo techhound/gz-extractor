@@ -1,0 +1,63 @@
+# Python-generated files
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+wheels/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+env/
+ENV/
+venv/
+pip-wheel-metadata/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Logs and debug
+*.log
+
+# Compressed files
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
+*.tmp
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test output / coverage
+htmlcov/
+.tox/
+.nox/
+coverage.*
+.cache
+.pytest_cache/
+
+# Streamlit cache (if used)
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Jupyter notebooks (if any)
+.ipynb_checkpoints/
+
+# MyPy and other tooling
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+
